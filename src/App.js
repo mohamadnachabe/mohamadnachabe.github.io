@@ -6,12 +6,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to my website.
+          mohamadnachabe
         </p>
+        <a href="https://github.com/mohamadnachabe">
+          <img width="20" height="20" src={require('./github.svg')} />
+        </a>
       </header>
-      <Game />
     </div>
   );
 }
