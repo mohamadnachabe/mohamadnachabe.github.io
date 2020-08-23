@@ -9,9 +9,14 @@ function App() {
         <p>
           mohamadnachabe
         </p>
-        <a href="https://github.com/mohamadnachabe">
-          <img width="20" height="20" src={require('./github.svg')} />
-        </a>
+        <div>
+          <a href="https://github.com/mohamadnachabe">
+            <img class="content" width="20" height="20" src={require('./github.svg')} />
+          </a>
+          <a href="https://www.linkedin.com/in/mohamadnachabe/">
+            <img class="content" width="20" height="20" src={require('./linkedin.svg')} />
+          </a>
+        </div>
       </header>
     </div>
   );
