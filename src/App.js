@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          mohamad nachabe
+          mohamadnachabe
         </p>
         <a href="https://github.com/mohamadnachabe">
           <img width="20" height="20" src={require('./github.svg')} />
