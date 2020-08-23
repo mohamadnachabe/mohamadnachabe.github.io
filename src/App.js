@@ -6,8 +6,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          mohamadnachabe
+        <div>
+          Mohamad Nachabe
+        </div>
+        <p class="small-font">
+          <a class="link" href="mailto:mohamadnachabe@gmail.com">
+            mohamadnachabe@gmail.com
+          </a>
         </p>
         <div>
           <a href="https://github.com/mohamadnachabe">
