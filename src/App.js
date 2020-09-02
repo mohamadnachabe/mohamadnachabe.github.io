@@ -15,7 +15,7 @@ function App() {
           </a>
         </p>
         <div>
-          <a href="https://github.com/mohamadnachabe">
+          <a href="https://github.com/mohamadnachabe/">
             <img class="content" width="20" height="20" src={require('./github.svg')} />
           </a>
           <a href="https://www.linkedin.com/in/mohamadnachabe/">
