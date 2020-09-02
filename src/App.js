@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <body className="App-header">
         <div>
           Mohamad Nachabe
         </div>
@@ -22,7 +22,7 @@ function App() {
             <img class="content" width="20" height="20" src={require('./linkedin.svg')} />
           </a>
         </div>
-      </header>
+      </body>
     </div>
   );
 }
