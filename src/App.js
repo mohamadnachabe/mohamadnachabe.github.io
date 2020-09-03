@@ -20,6 +20,9 @@ function App() {
         <div>
           Mohamad Nachabe
         </div>
+        <div style={{fontSize: 18, fontStyle: 'bold', padding: '7px'}}>
+          Software Engineer
+        </div>
         <p class="small-font">
           <a class="link" href="mailto:mohamadnachabe@gmail.com">
             mohamadnachabe@gmail.com
