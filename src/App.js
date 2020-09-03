@@ -1,11 +1,23 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import ExampleComponent from "react-rounded-image";
+import MyPhoto from "./mohamad.jpeg";
 
 function App() {
   return (
     <div className="App">
       <body className="App-header">
+        <div style={{padding: '20px'}}>
+        <ExampleComponent
+          image={MyPhoto}
+          roundedColor="#321124"
+          imageWidth="150"
+          imageHeight="150"
+          roundedSize="0"
+
+          />
+        </div>
         <div>
           Mohamad Nachabe
         </div>
